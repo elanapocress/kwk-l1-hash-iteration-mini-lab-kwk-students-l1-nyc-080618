@@ -17,8 +17,8 @@ def iterate_through_hash
   puts "The #{city} summer olympics took place in #{year}"
 end
 
-def iterate_through_keys
-  hash.each do |upcased_cities|
-  puts hash
-end
-end 
+# def iterate_through_keys
+#   hash.each do |upcased_cities|
+#   puts hash
+# end
+# end 
